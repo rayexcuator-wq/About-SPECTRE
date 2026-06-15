@@ -21,7 +21,7 @@ You agree to use the Bot only for lawful purposes and in a manner that does not 
 - Use the Bot to harass, abuse, threaten, or distribute harmful/illegal content to other users.
 - Use any automated scripts, self-bots, or macros to interact with the Bot.
 
-4. Service Availability and Modifications
+3. Service Availability and Modifications
 "As-Is" Basis: UCSO 2.0 is provided on an "as-is" and "as-available" basis. The developer makes no guarantees that the Bot will be online 100% of the time, error-free, or uninterrupted.
 
 Changes to the Bot: The developer reserves the right to modify, update, pause, or permanently discontinue the Bot (or any of its features) at any time without prior notice.
