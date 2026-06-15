@@ -1,5 +1,6 @@
 # UCSO 2.0---Terms-of-Service
 Terms of Service for UCSO 2.0
+
 Effective Date: June 15, 2026
 
 Welcome to UCSO 2.0 ("the Bot"). By inviting the Bot to your Discord server, using its commands, or interacting with it in any way, you ("the User" or "Server Administrator") agree to be bound by these Terms of Service ("Terms").
